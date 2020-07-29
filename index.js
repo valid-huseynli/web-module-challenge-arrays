@@ -1,4 +1,4 @@
-var originalFlavors = ["Banana Nut Fudge",
+git var originalFlavors = ["Banana Nut Fudge",
     "Black Walnut",
     "Burgundy Cherry",
    "Butterscotch Ribbon",
@@ -57,7 +57,7 @@ Your function should add the flavor to the front of the array and console.log th
 
 For example addFlavor("Rainbow Sherbert", originalFlavors) should return ["Rainbow Sherbert", "Banana Nut Fudge",..."Vanilla Burnt Almond"] */ 
 
-function addFlavor(/*code here*/){
+function addFlavor(){
 
     /*code here*/
 
